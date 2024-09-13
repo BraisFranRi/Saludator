@@ -3,6 +3,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: 100vh;
 }
 
 button{
@@ -18,3 +19,10 @@ button:hover{
     background-color: #0056ff;
 }
 
+section {
+    flex:1;
+}
+
+footer{
+    align-self: flex-end;
+}

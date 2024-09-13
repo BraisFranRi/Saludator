@@ -9,9 +9,9 @@ Te saluda bro, que no entendiste?
 - [x] Crear la estructura HTML
 - [x] aplicar estilos con css
 - [x] dotar de comportamiento con js
-- [ ] deploy
+- [x] deploy
 
 ### Sprint 2
 - [ ] Mejorar interfaz gráfica
-- [ ] poner el confetti
+- [x] poner el confetti
 - [ ] Que salude con más entusiasmo :D
