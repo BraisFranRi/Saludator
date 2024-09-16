@@ -1,7 +1,15 @@
 # Saludator
 
 ## Descripción
-Te saluda bro, que no entendiste?
+Ejercicio de prueba
+
+## Tecnologías
+- html
+- Css
+- js ()
+
+## Deploy en gitHub
+https://braisfranri.github.io/Saludator/
 
 ## Etapas
 
